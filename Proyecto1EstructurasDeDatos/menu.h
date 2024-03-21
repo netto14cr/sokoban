@@ -1,5 +1,5 @@
 // menu.h
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Definicion de la clase menu
 
 

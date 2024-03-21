@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Proyecto1EstructurasDeDatos.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ListaEnlazada.cpp
+D:\Documentos\UNIVERSIDAD NACIONAL\2022\CURSOS\sokoban\Proyecto1EstructurasDeDatos\ListaEnlazada.cpp(124,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  main.cpp
+  menu.cpp
+  MetodosPila.cpp
+  MetodosVector.cpp
+  OperacionesArchivo.cpp
+D:\Documentos\UNIVERSIDAD NACIONAL\2022\CURSOS\sokoban\Proyecto1EstructurasDeDatos\OperacionesArchivo.cpp(64,37): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  sokoban.cpp
+  ventana.cpp
+D:\Documentos\UNIVERSIDAD NACIONAL\2022\CURSOS\sokoban\Proyecto1EstructurasDeDatos\ventana.cpp(13,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Documentos\UNIVERSIDAD NACIONAL\2022\CURSOS\sokoban\Proyecto1EstructurasDeDatos\ventana.cpp(13,24): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Generando código...
+  Proyecto1EstructurasDeDatos.vcxproj -> D:\Documentos\UNIVERSIDAD NACIONAL\2022\CURSOS\sokoban\x64\Debug\Sokoban.exe

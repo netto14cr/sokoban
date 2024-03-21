@@ -1,6 +1,6 @@
 
 // sokoban.h
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Definicion de la clase ventana.h
 
 #ifndef VENTANA_H

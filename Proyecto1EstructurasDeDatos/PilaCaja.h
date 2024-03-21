@@ -1,7 +1,7 @@
 
 
 // PilaCaja.h
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Definicio  de la clase pilaCaja
 
 

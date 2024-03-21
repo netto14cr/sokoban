@@ -1,13 +1,13 @@
 
 // main.cpp
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Solucion al proyecto I Sokoban - Verano 2019
 
 #include "ventana.h"
 int main() {
 
 
-	//cout << "hola mundo!";
+	
 	ventana v;
 	// Llamado para el metodo que maneja el inicio del juego
 	v.playGame();

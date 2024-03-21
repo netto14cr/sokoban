@@ -1,5 +1,5 @@
 // sokoban.cpp
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Implemeentacion de los metodos del juego sokoban.
 
 

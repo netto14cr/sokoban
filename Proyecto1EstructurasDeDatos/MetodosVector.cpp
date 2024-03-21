@@ -1,5 +1,5 @@
 // main.cpp
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Implementacion de de metodos del vector
 
 

@@ -1,6 +1,6 @@
 
 // MetodosPila.cpp
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Implementacion de la clase MetodosPila
 #include"PilaCaja.h"
 

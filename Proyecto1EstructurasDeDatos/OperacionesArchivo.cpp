@@ -1,7 +1,7 @@
 
 
 // OperacionesArchivo.cpp
-// Autores: Kislev Aleman, Josua Esquivel y Néstor Leiva
+// Autor: Néstor Leiva
 // Implementacion de los metodos para lectura y escritura de archivos
 
 
