@@ -1,0 +1,20 @@
+﻿  ListaEnlazada.cpp
+  main.cpp
+  menu.cpp
+  MetodosPila.cpp
+  MetodosVector.cpp
+  OperacionesArchivo.cpp
+  sokoban.cpp
+  ventana.cpp
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,44): warning C4244:         with
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,44): warning C4244:         [
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,44): warning C4244:             T=unsigned int
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,44): warning C4244:         ]
+  Generando código...
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,24): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,24): warning C4244:         with
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,24): warning C4244:         [
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,24): warning C4244:             T=unsigned int
+C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Proyecto1EstructurasDeDatos\ventana.cpp(13,24): warning C4244:         ]
+  Proyecto1EstructurasDeDatos.vcxproj -> C:\Users\netto\OneDrive\Documents\UNIVERSIDAD NACIONAL\2019\III CICLO 2019 VERANO\PROYECTOS PROGRAMADOS\SOKOBAN - PROYECTO I\Debug\Proyecto1EstructurasDeDatos.exe
